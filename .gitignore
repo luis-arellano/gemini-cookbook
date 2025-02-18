@@ -1,5 +1,7 @@
 # Environment variables
 .env
+test-slides.pdf
+service-account.json
 
 # Virtual Environment
 venv/
